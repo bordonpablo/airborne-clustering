@@ -1,6 +1,6 @@
 data/*.csv
 buffer/*/*
-
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
